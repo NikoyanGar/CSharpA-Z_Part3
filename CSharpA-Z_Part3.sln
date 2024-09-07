@@ -5,67 +5,77 @@ VisualStudioVersion = 17.11.35222.181
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson_Exception_Handling", "Lesson_Exception_Handling", "{9DFAABF8-8C10-4FED-B9A9-85EE039977CB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson_Erors_Bugs_Exceptions", "Lesson_Exception_Handling\Lesson_Erors_Bugs_Exceptions\Lesson_Erors_Bugs_Exceptions.csproj", "{FF1BD334-3B66-458F-8D5B-BB35DE915205}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson_Erors_Bugs_Exceptions", "Lesson_Exception_Handling\Lesson_Erors_Bugs_Exceptions\Lesson_Erors_Bugs_Exceptions.csproj", "{FF1BD334-3B66-458F-8D5B-BB35DE915205}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson_Exception_Handling_001", "Lesson_Exception_Handling\Lesson_Exception_Handling_001\Lesson_Exception_Handling_001.csproj", "{7F52C610-6019-4D57-879A-AB3F1625B47A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson_Exception_Handling_001", "Lesson_Exception_Handling\Lesson_Exception_Handling_001\Lesson_Exception_Handling_001.csproj", "{7F52C610-6019-4D57-879A-AB3F1625B47A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson_Exception_Handling_002", "Lesson_Exception_Handling\Lesson_Exception_Handling_002\Lesson_Exception_Handling_002.csproj", "{2FABD0AA-0356-489A-927B-FF51419BB31C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson_Exception_Handling_002", "Lesson_Exception_Handling\Lesson_Exception_Handling_002\Lesson_Exception_Handling_002.csproj", "{2FABD0AA-0356-489A-927B-FF51419BB31C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson_Exception_Handling_003", "Lesson_Exception_Handling\Lesson_Exception_Handling_003\Lesson_Exception_Handling_003.csproj", "{346222B4-9965-47F1-A2BA-D0770B510170}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson_Exception_Handling_003", "Lesson_Exception_Handling\Lesson_Exception_Handling_003\Lesson_Exception_Handling_003.csproj", "{346222B4-9965-47F1-A2BA-D0770B510170}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson_Exception_Handling_004", "Lesson_Exception_Handling\Lesson_Exception_Handling_004\Lesson_Exception_Handling_004.csproj", "{86364E09-B29B-4428-95FC-0A77803C2E1A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson_Exception_Handling_004", "Lesson_Exception_Handling\Lesson_Exception_Handling_004\Lesson_Exception_Handling_004.csproj", "{86364E09-B29B-4428-95FC-0A77803C2E1A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson_Exception_Handling_005", "Lesson_Exception_Handling\Lesson_Exception_Handling_005\Lesson_Exception_Handling_005.csproj", "{CE471E7B-1EFA-4BE1-8429-983D190A72F5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson_Exception_Handling_005", "Lesson_Exception_Handling\Lesson_Exception_Handling_005\Lesson_Exception_Handling_005.csproj", "{CE471E7B-1EFA-4BE1-8429-983D190A72F5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson_Exception_Handling_006", "Lesson_Exception_Handling\Lesson_Exception_Handling_006\Lesson_Exception_Handling_006.csproj", "{C95BA74C-7FBA-4C6D-BC83-41B3D21246EC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson_Exception_Handling_006", "Lesson_Exception_Handling\Lesson_Exception_Handling_006\Lesson_Exception_Handling_006.csproj", "{C95BA74C-7FBA-4C6D-BC83-41B3D21246EC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson_Exception_Handling_007", "Lesson_Exception_Handling\Lesson_Exception_Handling_007\Lesson_Exception_Handling_007.csproj", "{AD19EA88-DE73-495E-88FD-6CF7C55C1D9D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson_Exception_Handling_007", "Lesson_Exception_Handling\Lesson_Exception_Handling_007\Lesson_Exception_Handling_007.csproj", "{AD19EA88-DE73-495E-88FD-6CF7C55C1D9D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson_Exception_Handling_008", "Lesson_Exception_Handling\Lesson_Exception_Handling_008\Lesson_Exception_Handling_008.csproj", "{54151423-AA52-4740-85D4-86842D81CEBC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson_Exception_Handling_008", "Lesson_Exception_Handling\Lesson_Exception_Handling_008\Lesson_Exception_Handling_008.csproj", "{54151423-AA52-4740-85D4-86842D81CEBC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson_Exception_Handling_009", "Lesson_Exception_Handling\Lesson_Exception_Handling_009\Lesson_Exception_Handling_009.csproj", "{ED24C880-0D01-4564-9FB4-150CED9D773F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson_Exception_Handling_009", "Lesson_Exception_Handling\Lesson_Exception_Handling_009\Lesson_Exception_Handling_009.csproj", "{ED24C880-0D01-4564-9FB4-150CED9D773F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson_Exception_Handling_010", "Lesson_Exception_Handling\Lesson_Exception_Handling_010\Lesson_Exception_Handling_010.csproj", "{4EA50CED-8443-45B7-8ED7-B6BD9B193913}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson_Exception_Handling_010", "Lesson_Exception_Handling\Lesson_Exception_Handling_010\Lesson_Exception_Handling_010.csproj", "{4EA50CED-8443-45B7-8ED7-B6BD9B193913}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson_Exception_Handling_011", "Lesson_Exception_Handling\Lesson_Exception_Handling_011\Lesson_Exception_Handling_011.csproj", "{CC8C28A9-6A5E-4729-9DD3-820B08F00F0A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson_Exception_Handling_011", "Lesson_Exception_Handling\Lesson_Exception_Handling_011\Lesson_Exception_Handling_011.csproj", "{CC8C28A9-6A5E-4729-9DD3-820B08F00F0A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson_Exception_Handling_012", "Lesson_Exception_Handling\Lesson_Exception_Handling_012\Lesson_Exception_Handling_012.csproj", "{E257C16A-7CE3-4921-A83A-9922B7F47C16}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson_Exception_Handling_012", "Lesson_Exception_Handling\Lesson_Exception_Handling_012\Lesson_Exception_Handling_012.csproj", "{E257C16A-7CE3-4921-A83A-9922B7F47C16}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson_Exception_Handling_013", "Lesson_Exception_Handling\Lesson_Exception_Handling_013\Lesson_Exception_Handling_013.csproj", "{F89F59C0-724F-4712-9C48-AD398BDFC43A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson_Exception_Handling_013", "Lesson_Exception_Handling\Lesson_Exception_Handling_013\Lesson_Exception_Handling_013.csproj", "{F89F59C0-724F-4712-9C48-AD398BDFC43A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson_Exception_Handling_014", "Lesson_Exception_Handling\Lesson_Exception_Handling_014\Lesson_Exception_Handling_014.csproj", "{A8FF790E-8974-4D4B-BFC5-364933DD3BCC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson_Exception_Handling_014", "Lesson_Exception_Handling\Lesson_Exception_Handling_014\Lesson_Exception_Handling_014.csproj", "{A8FF790E-8974-4D4B-BFC5-364933DD3BCC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson_Exception_Handling_015_using", "Lesson_Exception_Handling\Lesson_Exception_Handling_015_using\Lesson_Exception_Handling_015_using.csproj", "{1DE17E16-B668-41FB-9F23-C51EEC99EFEF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson_Exception_Handling_015_using", "Lesson_Exception_Handling\Lesson_Exception_Handling_015_using\Lesson_Exception_Handling_015_using.csproj", "{1DE17E16-B668-41FB-9F23-C51EEC99EFEF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson_Exception_Handling_016", "Lesson_Exception_Handling\Lesson_Exception_Handling_016\Lesson_Exception_Handling_016.csproj", "{86210170-C70D-4B29-B2DB-FF53F044B093}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson_Exception_Handling_016", "Lesson_Exception_Handling\Lesson_Exception_Handling_016\Lesson_Exception_Handling_016.csproj", "{86210170-C70D-4B29-B2DB-FF53F044B093}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson_Exception_Handling_017", "Lesson_Exception_Handling\Lesson_Exception_Handling_017\Lesson_Exception_Handling_017.csproj", "{11D83F6A-B7BB-4A51-BAC1-CDA9A9AD8C53}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson_Exception_Handling_017", "Lesson_Exception_Handling\Lesson_Exception_Handling_017\Lesson_Exception_Handling_017.csproj", "{11D83F6A-B7BB-4A51-BAC1-CDA9A9AD8C53}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson_Exception_Handling_018", "Lesson_Exception_Handling\Lesson_Exception_Handling_018\Lesson_Exception_Handling_018.csproj", "{06803C82-6844-4FDA-BC0E-1169DA307B89}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson_Exception_Handling_018", "Lesson_Exception_Handling\Lesson_Exception_Handling_018\Lesson_Exception_Handling_018.csproj", "{06803C82-6844-4FDA-BC0E-1169DA307B89}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson_Linq", "Lesson_Linq", "{F3BF1557-1643-4BD4-BDD2-3598E17719F9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson_Exception_Handling_019", "Lesson_Exception_Handling\Lesson_Exception_Handling_019\Lesson_Exception_Handling_019.csproj", "{4AE935EC-E1AD-4CF8-86CA-3156A5A75CEB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson_Exception_Handling_019", "Lesson_Exception_Handling\Lesson_Exception_Handling_019\Lesson_Exception_Handling_019.csproj", "{4AE935EC-E1AD-4CF8-86CA-3156A5A75CEB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqShared", "Lesson_Linq\LinqShared\LinqShared.csproj", "{2BE6FAE8-C939-4ED5-8C2B-21D8679FCA10}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinqShared", "Lesson_Linq\LinqShared\LinqShared.csproj", "{2BE6FAE8-C939-4ED5-8C2B-21D8679FCA10}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_Linq", "Lesson_Linq\001_Linq\001_Linq.csproj", "{3D0B31A8-AB33-4F72-A691-5151DE92E7B6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "001_Linq", "Lesson_Linq\001_Linq\001_Linq.csproj", "{3D0B31A8-AB33-4F72-A691-5151DE92E7B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_Linq_any", "Lesson_Linq\002_Linq_any\002_Linq_any.csproj", "{AB2FCF6F-15E5-4FF0-A9FF-075522026855}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "002_Linq_any", "Lesson_Linq\002_Linq_any\002_Linq_any.csproj", "{AB2FCF6F-15E5-4FF0-A9FF-075522026855}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_Linq_contains", "Lesson_Linq\002_Linq_contains\002_Linq_contains.csproj", "{6A5C3C5E-01BC-419E-BFA2-7652ECA55F99}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "002_Linq_contains", "Lesson_Linq\002_Linq_contains\002_Linq_contains.csproj", "{6A5C3C5E-01BC-419E-BFA2-7652ECA55F99}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_Linq_count", "Lesson_Linq\002_Linq_count\002_Linq_count.csproj", "{064CA4BB-5A4E-40AD-A32E-950F1DF08AED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "002_Linq_count", "Lesson_Linq\002_Linq_count\002_Linq_count.csproj", "{064CA4BB-5A4E-40AD-A32E-950F1DF08AED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_Linq_distinct", "Lesson_Linq\002_Linq_distinct\002_Linq_distinct.csproj", "{FF16E804-A4B0-4E83-8AD3-52B4FB3540CB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "002_Linq_distinct", "Lesson_Linq\002_Linq_distinct\002_Linq_distinct.csproj", "{FF16E804-A4B0-4E83-8AD3-52B4FB3540CB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_Linq_firstLast", "Lesson_Linq\002_Linq_firstLast\002_Linq_firstLast.csproj", "{A102E7C5-1C43-4694-BD97-DEF8ACF404F8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "002_Linq_firstLast", "Lesson_Linq\002_Linq_firstLast\002_Linq_firstLast.csproj", "{A102E7C5-1C43-4694-BD97-DEF8ACF404F8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_Linq_orderBy", "Lesson_Linq\002_Linq_orderBy\002_Linq_orderBy.csproj", "{C957FFC9-1B1D-4AA1-824B-C1940CD43F45}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "002_Linq_orderBy", "Lesson_Linq\002_Linq_orderBy\002_Linq_orderBy.csproj", "{C957FFC9-1B1D-4AA1-824B-C1940CD43F45}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_Linq_select", "Lesson_Linq\002_Linq_select\002_Linq_select.csproj", "{092CB6E6-41E5-4CA1-9B53-83717D35CA92}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "002_Linq_select", "Lesson_Linq\002_Linq_select\002_Linq_select.csproj", "{092CB6E6-41E5-4CA1-9B53-83717D35CA92}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_Linq_where", "Lesson_Linq\002_Linq_where\002_Linq_where.csproj", "{285BF2F5-783B-43F2-B7D5-51C38D6A5C3D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "002_Linq_where", "Lesson_Linq\002_Linq_where\002_Linq_where.csproj", "{285BF2F5-783B-43F2-B7D5-51C38D6A5C3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003_Linq", "Lesson_Linq\003_Linq\003_Linq.csproj", "{F3BC32F1-44F0-4581-86F0-3AC0BC9FA656}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercises", "Exercises", "{655180C1-85E8-46ED-B422-4DF011BE6A20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercisesForPractice", "Lesson_Linq\Exercises\ExercisesForPractice\ExercisesForPractice.csproj", "{BE9C7C12-69A0-4F33-BE43-8128CBC033BC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercisesSolutions", "Lesson_Linq\Exercises\ExercisesSolutions\ExercisesSolutions.csproj", "{7E40A589-6F75-455A-A49A-255A2A81862A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercisesTests", "Lesson_Linq\Exercises\ExercisesTests\ExercisesTests.csproj", "{D78226C0-D3D9-4FA7-B0B6-22E7A20146FC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -193,6 +203,22 @@ Global
 		{285BF2F5-783B-43F2-B7D5-51C38D6A5C3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{285BF2F5-783B-43F2-B7D5-51C38D6A5C3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{285BF2F5-783B-43F2-B7D5-51C38D6A5C3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3BC32F1-44F0-4581-86F0-3AC0BC9FA656}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3BC32F1-44F0-4581-86F0-3AC0BC9FA656}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3BC32F1-44F0-4581-86F0-3AC0BC9FA656}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3BC32F1-44F0-4581-86F0-3AC0BC9FA656}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE9C7C12-69A0-4F33-BE43-8128CBC033BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE9C7C12-69A0-4F33-BE43-8128CBC033BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE9C7C12-69A0-4F33-BE43-8128CBC033BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE9C7C12-69A0-4F33-BE43-8128CBC033BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E40A589-6F75-455A-A49A-255A2A81862A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E40A589-6F75-455A-A49A-255A2A81862A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E40A589-6F75-455A-A49A-255A2A81862A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E40A589-6F75-455A-A49A-255A2A81862A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D78226C0-D3D9-4FA7-B0B6-22E7A20146FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D78226C0-D3D9-4FA7-B0B6-22E7A20146FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D78226C0-D3D9-4FA7-B0B6-22E7A20146FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D78226C0-D3D9-4FA7-B0B6-22E7A20146FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -228,6 +254,11 @@ Global
 		{C957FFC9-1B1D-4AA1-824B-C1940CD43F45} = {F3BF1557-1643-4BD4-BDD2-3598E17719F9}
 		{092CB6E6-41E5-4CA1-9B53-83717D35CA92} = {F3BF1557-1643-4BD4-BDD2-3598E17719F9}
 		{285BF2F5-783B-43F2-B7D5-51C38D6A5C3D} = {F3BF1557-1643-4BD4-BDD2-3598E17719F9}
+		{F3BC32F1-44F0-4581-86F0-3AC0BC9FA656} = {F3BF1557-1643-4BD4-BDD2-3598E17719F9}
+		{655180C1-85E8-46ED-B422-4DF011BE6A20} = {F3BF1557-1643-4BD4-BDD2-3598E17719F9}
+		{BE9C7C12-69A0-4F33-BE43-8128CBC033BC} = {655180C1-85E8-46ED-B422-4DF011BE6A20}
+		{7E40A589-6F75-455A-A49A-255A2A81862A} = {655180C1-85E8-46ED-B422-4DF011BE6A20}
+		{D78226C0-D3D9-4FA7-B0B6-22E7A20146FC} = {655180C1-85E8-46ED-B422-4DF011BE6A20}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7DA0AA13-F566-464D-8941-F9FFBBE205F1}
