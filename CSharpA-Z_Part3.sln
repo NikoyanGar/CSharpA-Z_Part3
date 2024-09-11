@@ -79,27 +79,35 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercisesTests", "Lesson_Li
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson_Threads", "Lesson_Threads", "{C957FAFB-595C-4213-8806-2E6647C5E080}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_Threads", "Lesson_Threads\001_Threads\001_Threads.csproj", "{95CACE04-1BA1-473D-ABFB-617E09A5B9F1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "001_Threads", "Lesson_Threads\001_Threads\001_Threads.csproj", "{95CACE04-1BA1-473D-ABFB-617E09A5B9F1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_Threads", "Lesson_Threads\002_Threads\002_Threads.csproj", "{8409B45F-4FDD-4380-9C31-89EE66A73749}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "002_Threads", "Lesson_Threads\002_Threads\002_Threads.csproj", "{8409B45F-4FDD-4380-9C31-89EE66A73749}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003_Threads", "Lesson_Threads\003_Threads\003_Threads.csproj", "{9AC9D826-7C9D-41CD-A403-307ABC908C7C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "003_Threads", "Lesson_Threads\003_Threads\003_Threads.csproj", "{9AC9D826-7C9D-41CD-A403-307ABC908C7C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004_Threads", "Lesson_Threads\004_Threads\004_Threads.csproj", "{1B4CD7E9-C436-47EB-AE10-2CA40948A5A9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "004_Threads", "Lesson_Threads\004_Threads\004_Threads.csproj", "{1B4CD7E9-C436-47EB-AE10-2CA40948A5A9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005_Threads_Priorities", "Lesson_Threads\005_Threads_Priorities\005_Threads_Priorities.csproj", "{DCFA053B-E7E8-412B-AFE7-BA70A01333BB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "005_Threads_Priorities", "Lesson_Threads\005_Threads_Priorities\005_Threads_Priorities.csproj", "{DCFA053B-E7E8-412B-AFE7-BA70A01333BB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "006_Threads_Abort", "Lesson_Threads\006_Threads_Abort\006_Threads_Abort.csproj", "{D5F5DB10-A41A-4B6C-8D9B-A63E2D67F7E4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "006_Threads_Abort", "Lesson_Threads\006_Threads_Abort\006_Threads_Abort.csproj", "{D5F5DB10-A41A-4B6C-8D9B-A63E2D67F7E4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "006_Threads_Background", "Lesson_Threads\006_Threads_Background\006_Threads_Background.csproj", "{94017E94-588D-4BB2-9B10-725EAEC1A956}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "006_Threads_Background", "Lesson_Threads\006_Threads_Background\006_Threads_Background.csproj", "{94017E94-588D-4BB2-9B10-725EAEC1A956}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "007_Threads_same_resource", "Lesson_Threads\007_Threads_same_resource\007_Threads_same_resource.csproj", "{C2CA67CD-83CD-4E93-9010-DA0BB7F0BB07}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "007_Threads_same_resource", "Lesson_Threads\007_Threads_same_resource\007_Threads_same_resource.csproj", "{C2CA67CD-83CD-4E93-9010-DA0BB7F0BB07}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "007_Threads_same_resource_sync", "Lesson_Threads\007_Threads_same_resource_sync\007_Threads_same_resource_sync.csproj", "{1EC0DEB4-5C6E-4899-B15E-9072D0AE5898}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "007_Threads_same_resource_sync", "Lesson_Threads\007_Threads_same_resource_sync\007_Threads_same_resource_sync.csproj", "{1EC0DEB4-5C6E-4899-B15E-9072D0AE5898}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "008_Threads_Deadlock", "Lesson_Threads\008_Threads_Deadlock\008_Threads_Deadlock.csproj", "{32F3980F-3E28-4F2A-BBC0-734CC89252B4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "008_Threads_Deadlock", "Lesson_Threads\008_Threads_Deadlock\008_Threads_Deadlock.csproj", "{32F3980F-3E28-4F2A-BBC0-734CC89252B4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "009_Thread_ThreadPool", "Lesson_Threads\009_Thread_ThreadPool\009_Thread_ThreadPool.csproj", "{24E4B5A5-4269-4A3B-90EE-2F8A7AFABD79}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "009_Thread_ThreadPool", "Lesson_Threads\009_Thread_ThreadPool\009_Thread_ThreadPool.csproj", "{24E4B5A5-4269-4A3B-90EE-2F8A7AFABD79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_1_Threads", "Lesson_Threads\001_1_Threads\001_1_Threads.csproj", "{379C1672-90CF-4AF3-B16D-40FF97CB715A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_2_Threads", "Lesson_Threads\001_2_Threads\001_2_Threads.csproj", "{07DD7C99-9D29-48B1-BFE8-79CD8520D12F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_3_Threads", "Lesson_Threads\001_3_Threads\001_3_Threads.csproj", "{FE0B7B81-E5A9-46CE-8DBE-8C4EA5B8492D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_4_Threads", "Lesson_Threads\001_4_Threads\001_4_Threads.csproj", "{BB2E6463-9432-4B37-98F5-6EB118B883BD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -287,6 +295,22 @@ Global
 		{24E4B5A5-4269-4A3B-90EE-2F8A7AFABD79}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{24E4B5A5-4269-4A3B-90EE-2F8A7AFABD79}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{24E4B5A5-4269-4A3B-90EE-2F8A7AFABD79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{379C1672-90CF-4AF3-B16D-40FF97CB715A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{379C1672-90CF-4AF3-B16D-40FF97CB715A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{379C1672-90CF-4AF3-B16D-40FF97CB715A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{379C1672-90CF-4AF3-B16D-40FF97CB715A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07DD7C99-9D29-48B1-BFE8-79CD8520D12F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07DD7C99-9D29-48B1-BFE8-79CD8520D12F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07DD7C99-9D29-48B1-BFE8-79CD8520D12F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07DD7C99-9D29-48B1-BFE8-79CD8520D12F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE0B7B81-E5A9-46CE-8DBE-8C4EA5B8492D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE0B7B81-E5A9-46CE-8DBE-8C4EA5B8492D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE0B7B81-E5A9-46CE-8DBE-8C4EA5B8492D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE0B7B81-E5A9-46CE-8DBE-8C4EA5B8492D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB2E6463-9432-4B37-98F5-6EB118B883BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB2E6463-9432-4B37-98F5-6EB118B883BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB2E6463-9432-4B37-98F5-6EB118B883BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB2E6463-9432-4B37-98F5-6EB118B883BD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -338,6 +362,10 @@ Global
 		{1EC0DEB4-5C6E-4899-B15E-9072D0AE5898} = {C957FAFB-595C-4213-8806-2E6647C5E080}
 		{32F3980F-3E28-4F2A-BBC0-734CC89252B4} = {C957FAFB-595C-4213-8806-2E6647C5E080}
 		{24E4B5A5-4269-4A3B-90EE-2F8A7AFABD79} = {C957FAFB-595C-4213-8806-2E6647C5E080}
+		{379C1672-90CF-4AF3-B16D-40FF97CB715A} = {C957FAFB-595C-4213-8806-2E6647C5E080}
+		{07DD7C99-9D29-48B1-BFE8-79CD8520D12F} = {C957FAFB-595C-4213-8806-2E6647C5E080}
+		{FE0B7B81-E5A9-46CE-8DBE-8C4EA5B8492D} = {C957FAFB-595C-4213-8806-2E6647C5E080}
+		{BB2E6463-9432-4B37-98F5-6EB118B883BD} = {C957FAFB-595C-4213-8806-2E6647C5E080}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7DA0AA13-F566-464D-8941-F9FFBBE205F1}
