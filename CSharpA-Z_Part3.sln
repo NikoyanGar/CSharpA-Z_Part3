@@ -131,47 +131,55 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "001_2_Tasks", "Lesson_Tasks
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "001_3_Tasks", "Lesson_Tasks\001_3_Tasks\001_3_Tasks.csproj", "{9661F990-8346-4A4F-A258-C2D3C0247DB6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_4_Tasks", "Lesson_Tasks\001_4_Tasks\001_4_Tasks.csproj", "{396731EE-B28C-41E8-85FD-EC0056D82CE3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "001_4_Tasks", "Lesson_Tasks\001_4_Tasks\001_4_Tasks.csproj", "{396731EE-B28C-41E8-85FD-EC0056D82CE3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_5_Tasks", "Lesson_Tasks\001_5_Tasks\001_5_Tasks.csproj", "{19D15333-8C87-40DF-94EF-EE7FB6D903AD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "001_5_Tasks", "Lesson_Tasks\001_5_Tasks\001_5_Tasks.csproj", "{19D15333-8C87-40DF-94EF-EE7FB6D903AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_6_Tasks", "Lesson_Tasks\001_6_Tasks\001_6_Tasks.csproj", "{E422C42D-5E84-445E-8A38-B6C912F8232B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "001_6_Tasks", "Lesson_Tasks\001_6_Tasks\001_6_Tasks.csproj", "{E422C42D-5E84-445E-8A38-B6C912F8232B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_7_Tasks", "Lesson_Tasks\001_7_Tasks\001_7_Tasks.csproj", "{9858AD94-9C55-4C87-B1B0-CA31AA76C712}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "001_7_Tasks", "Lesson_Tasks\001_7_Tasks\001_7_Tasks.csproj", "{9858AD94-9C55-4C87-B1B0-CA31AA76C712}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_8_Tasks", "Lesson_Tasks\001_8_Tasks\001_8_Tasks.csproj", "{54D104AE-7C21-4BED-B146-5B95D9DD40C0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "001_8_Tasks", "Lesson_Tasks\001_8_Tasks\001_8_Tasks.csproj", "{54D104AE-7C21-4BED-B146-5B95D9DD40C0}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson_Tasks_Canceling", "Lesson_Tasks_Canceling", "{FD62564A-0660-4FB7-81AA-04A600A5F01F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_Tasks_Canceling", "Lesson_Tasks_Canceling\001_Tasks_Canceling\001_Tasks_Canceling.csproj", "{9F4EDC84-23B9-4523-8F00-B1ACC7BA9D3F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "001_Tasks_Canceling", "Lesson_Tasks_Canceling\001_Tasks_Canceling\001_Tasks_Canceling.csproj", "{9F4EDC84-23B9-4523-8F00-B1ACC7BA9D3F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_Tasks_Lifecycle", "Lesson_Tasks_Canceling\001_Tasks_Lifecycle\001_Tasks_Lifecycle.csproj", "{D26BF7C9-2948-417B-AC4D-8C98E804D653}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "001_Tasks_Lifecycle", "Lesson_Tasks_Canceling\001_Tasks_Lifecycle\001_Tasks_Lifecycle.csproj", "{D26BF7C9-2948-417B-AC4D-8C98E804D653}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_Tasks_CancelWithCorrectStatus", "Lesson_Tasks_Canceling\001_Tasks_CancelWithCorrectStatus\001_Tasks_CancelWithCorrectStatus.csproj", "{B6103B4B-A36A-42FA-8CC3-DAD5EC359DE1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "001_Tasks_CancelWithCorrectStatus", "Lesson_Tasks_Canceling\001_Tasks_CancelWithCorrectStatus\001_Tasks_CancelWithCorrectStatus.csproj", "{B6103B4B-A36A-42FA-8CC3-DAD5EC359DE1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_Tasks_Exceptions_in_other_thread", "Lesson_Tasks\001_Tasks_Exceptions_in_other_thread\001_Tasks_Exceptions_in_other_thread.csproj", "{55B9D0A2-975C-465D-94CC-4A46C6B1948C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "001_Tasks_Exceptions_in_other_thread", "Lesson_Tasks\001_Tasks_Exceptions_in_other_thread\001_Tasks_Exceptions_in_other_thread.csproj", "{55B9D0A2-975C-465D-94CC-4A46C6B1948C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_Tasks_Exceptions_in_other_task", "Lesson_Tasks_Canceling\001_Tasks_Exceptions_in_other_task\001_Tasks_Exceptions_in_other_task.csproj", "{47385738-A066-49F6-B6CF-E8549EDD9F3E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "001_Tasks_Exceptions_in_other_task", "Lesson_Tasks_Canceling\001_Tasks_Exceptions_in_other_task\001_Tasks_Exceptions_in_other_task.csproj", "{47385738-A066-49F6-B6CF-E8549EDD9F3E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_Tasks_Exceptions_asyncron_handle", "Lesson_Tasks_Canceling\001_Tasks_Exceptions_asyncron_handle\001_Tasks_Exceptions_asyncron_handle.csproj", "{6C56DE95-8430-4896-A894-C8D306FD9D2F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "001_Tasks_Exceptions_asyncron_handle", "Lesson_Tasks_Canceling\001_Tasks_Exceptions_asyncron_handle\001_Tasks_Exceptions_asyncron_handle.csproj", "{6C56DE95-8430-4896-A894-C8D306FD9D2F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_Tasks_Exceptions_agregate", "Lesson_Tasks_Canceling\001_Tasks_Exceptions_agregate\001_Tasks_Exceptions_agregate.csproj", "{C17E3930-F0A9-4F80-A7B2-73443EC88080}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "001_Tasks_Exceptions_agregate", "Lesson_Tasks_Canceling\001_Tasks_Exceptions_agregate\001_Tasks_Exceptions_agregate.csproj", "{C17E3930-F0A9-4F80-A7B2-73443EC88080}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_Tasks_multiple_continuatins", "Lesson_Tasks_Canceling\001_Tasks_multiple_continuatins\001_Tasks_multiple_continuatins.csproj", "{006AACE1-9218-438E-A46F-67F3E9913521}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "001_Tasks_multiple_continuatins", "Lesson_Tasks_Canceling\001_Tasks_multiple_continuatins\001_Tasks_multiple_continuatins.csproj", "{006AACE1-9218-438E-A46F-67F3E9913521}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_Tasks_Handle_task_cancellation", "Lesson_Tasks_Canceling\001_Tasks_Handle_task_cancellation\001_Tasks_Handle_task_cancellation.csproj", "{63C8D7CD-1776-4BBA-A50C-F4F67CF537F5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "001_Tasks_Handle_task_cancellation", "Lesson_Tasks_Canceling\001_Tasks_Handle_task_cancellation\001_Tasks_Handle_task_cancellation.csproj", "{63C8D7CD-1776-4BBA-A50C-F4F67CF537F5}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson_Synchronization", "Lesson_Synchronization", "{F64406AC-E1F9-47A3-9685-9E8A0E0EAAE8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_Synchronization", "Lesson_Synchronization\001_Synchronization\001_Synchronization.csproj", "{02B37513-B2B4-4881-9599-2840D852100A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "001_Synchronization", "Lesson_Synchronization\001_Synchronization\001_Synchronization.csproj", "{02B37513-B2B4-4881-9599-2840D852100A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_Synchronization", "Lesson_Synchronization\002_Synchronization\002_Synchronization.csproj", "{6856B39D-C35E-41FE-B044-715CC207F5B7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "002_Synchronization", "Lesson_Synchronization\002_Synchronization\002_Synchronization.csproj", "{6856B39D-C35E-41FE-B044-715CC207F5B7}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson_AsyncAwait", "Lesson_AsyncAwait", "{03AB2758-89DE-4E41-8D29-8C0364CCDC19}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_AsyncAwait", "Lesson_AsyncAwait\001_AsyncAwait\001_AsyncAwait.csproj", "{7318FD32-7158-4C6D-BD82-0E2FF5A8FE59}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "001_AsyncAwait", "Lesson_AsyncAwait\001_AsyncAwait\001_AsyncAwait.csproj", "{7318FD32-7158-4C6D-BD82-0E2FF5A8FE59}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_AsyncAwait", "Lesson_AsyncAwait\002_AsyncAwait\002_AsyncAwait.csproj", "{2330613F-0977-4695-BE2E-972F48F2B82C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "002_AsyncAwait", "Lesson_AsyncAwait\002_AsyncAwait\002_AsyncAwait.csproj", "{2330613F-0977-4695-BE2E-972F48F2B82C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson_AsyncronyVsMultithread", "Lesson_AsyncronyVsMultithread", "{1260B729-5AA7-4E58-A346-2C22D9B1F14B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_AsyncronyVsMultithread", "Lesson_AsyncronyVsMultithread\001_AsyncronyVsMultithread\001_AsyncronyVsMultithread.csproj", "{140C4BBC-80CD-4DD6-8E39-DBC19B6B3162}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003_AsyncAwait", "Lesson_AsyncAwait\003_AsyncAwait\003_AsyncAwait.csproj", "{4285D2D1-B131-4A65-9BB3-E0B85165285C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004_AsyncAwait_HttpClient", "Lesson_AsyncAwait\004_AsyncAwait_HttpClient\004_AsyncAwait_HttpClient.csproj", "{DFBDD36A-3792-4AE7-A03B-7696987FB098}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -487,6 +495,18 @@ Global
 		{2330613F-0977-4695-BE2E-972F48F2B82C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2330613F-0977-4695-BE2E-972F48F2B82C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2330613F-0977-4695-BE2E-972F48F2B82C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{140C4BBC-80CD-4DD6-8E39-DBC19B6B3162}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{140C4BBC-80CD-4DD6-8E39-DBC19B6B3162}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{140C4BBC-80CD-4DD6-8E39-DBC19B6B3162}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{140C4BBC-80CD-4DD6-8E39-DBC19B6B3162}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4285D2D1-B131-4A65-9BB3-E0B85165285C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4285D2D1-B131-4A65-9BB3-E0B85165285C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4285D2D1-B131-4A65-9BB3-E0B85165285C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4285D2D1-B131-4A65-9BB3-E0B85165285C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFBDD36A-3792-4AE7-A03B-7696987FB098}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFBDD36A-3792-4AE7-A03B-7696987FB098}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFBDD36A-3792-4AE7-A03B-7696987FB098}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFBDD36A-3792-4AE7-A03B-7696987FB098}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -570,6 +590,9 @@ Global
 		{6856B39D-C35E-41FE-B044-715CC207F5B7} = {F64406AC-E1F9-47A3-9685-9E8A0E0EAAE8}
 		{7318FD32-7158-4C6D-BD82-0E2FF5A8FE59} = {03AB2758-89DE-4E41-8D29-8C0364CCDC19}
 		{2330613F-0977-4695-BE2E-972F48F2B82C} = {03AB2758-89DE-4E41-8D29-8C0364CCDC19}
+		{140C4BBC-80CD-4DD6-8E39-DBC19B6B3162} = {1260B729-5AA7-4E58-A346-2C22D9B1F14B}
+		{4285D2D1-B131-4A65-9BB3-E0B85165285C} = {03AB2758-89DE-4E41-8D29-8C0364CCDC19}
+		{DFBDD36A-3792-4AE7-A03B-7696987FB098} = {03AB2758-89DE-4E41-8D29-8C0364CCDC19}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7DA0AA13-F566-464D-8941-F9FFBBE205F1}
