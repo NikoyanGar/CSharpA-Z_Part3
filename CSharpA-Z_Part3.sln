@@ -175,11 +175,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "002_AsyncAwait", "Lesson_As
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson_AsyncronyVsMultithread", "Lesson_AsyncronyVsMultithread", "{1260B729-5AA7-4E58-A346-2C22D9B1F14B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_AsyncronyVsMultithread", "Lesson_AsyncronyVsMultithread\001_AsyncronyVsMultithread\001_AsyncronyVsMultithread.csproj", "{140C4BBC-80CD-4DD6-8E39-DBC19B6B3162}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "001_AsyncronyVsMultithread", "Lesson_AsyncronyVsMultithread\001_AsyncronyVsMultithread\001_AsyncronyVsMultithread.csproj", "{140C4BBC-80CD-4DD6-8E39-DBC19B6B3162}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003_AsyncAwait", "Lesson_AsyncAwait\003_AsyncAwait\003_AsyncAwait.csproj", "{4285D2D1-B131-4A65-9BB3-E0B85165285C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "003_AsyncAwait", "Lesson_AsyncAwait\003_AsyncAwait\003_AsyncAwait.csproj", "{4285D2D1-B131-4A65-9BB3-E0B85165285C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004_AsyncAwait_HttpClient", "Lesson_AsyncAwait\004_AsyncAwait_HttpClient\004_AsyncAwait_HttpClient.csproj", "{DFBDD36A-3792-4AE7-A03B-7696987FB098}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "004_AsyncAwait_HttpClient", "Lesson_AsyncAwait\004_AsyncAwait_HttpClient\004_AsyncAwait_HttpClient.csproj", "{DFBDD36A-3792-4AE7-A03B-7696987FB098}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson_Files", "Lesson_Files", "{528F1D53-CBB1-453B-90AB-8038B2D290C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_Files", "Lesson_Files\001_Files\001_Files.csproj", "{CF30E424-E89E-4BB3-A90C-74857516D8D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_Files", "Lesson_Files\002_Files\002_Files.csproj", "{9AEF00F4-7796-486E-960F-95DC1EE3D54F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003_Files_Directory", "Lesson_Files\003_Files_Directory\003_Files_Directory.csproj", "{93421FC7-3DA6-4F3A-AAE4-E5275A9DF942}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_Files_Path", "Lesson_Files\001_Files_Path\001_Files_Path.csproj", "{ACF8568A-A8B3-4492-958D-2E6AB79BE6B7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -507,6 +517,22 @@ Global
 		{DFBDD36A-3792-4AE7-A03B-7696987FB098}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DFBDD36A-3792-4AE7-A03B-7696987FB098}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DFBDD36A-3792-4AE7-A03B-7696987FB098}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF30E424-E89E-4BB3-A90C-74857516D8D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF30E424-E89E-4BB3-A90C-74857516D8D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF30E424-E89E-4BB3-A90C-74857516D8D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF30E424-E89E-4BB3-A90C-74857516D8D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AEF00F4-7796-486E-960F-95DC1EE3D54F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AEF00F4-7796-486E-960F-95DC1EE3D54F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AEF00F4-7796-486E-960F-95DC1EE3D54F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AEF00F4-7796-486E-960F-95DC1EE3D54F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93421FC7-3DA6-4F3A-AAE4-E5275A9DF942}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93421FC7-3DA6-4F3A-AAE4-E5275A9DF942}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93421FC7-3DA6-4F3A-AAE4-E5275A9DF942}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93421FC7-3DA6-4F3A-AAE4-E5275A9DF942}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACF8568A-A8B3-4492-958D-2E6AB79BE6B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACF8568A-A8B3-4492-958D-2E6AB79BE6B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACF8568A-A8B3-4492-958D-2E6AB79BE6B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACF8568A-A8B3-4492-958D-2E6AB79BE6B7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -593,6 +619,10 @@ Global
 		{140C4BBC-80CD-4DD6-8E39-DBC19B6B3162} = {1260B729-5AA7-4E58-A346-2C22D9B1F14B}
 		{4285D2D1-B131-4A65-9BB3-E0B85165285C} = {03AB2758-89DE-4E41-8D29-8C0364CCDC19}
 		{DFBDD36A-3792-4AE7-A03B-7696987FB098} = {03AB2758-89DE-4E41-8D29-8C0364CCDC19}
+		{CF30E424-E89E-4BB3-A90C-74857516D8D0} = {528F1D53-CBB1-453B-90AB-8038B2D290C7}
+		{9AEF00F4-7796-486E-960F-95DC1EE3D54F} = {528F1D53-CBB1-453B-90AB-8038B2D290C7}
+		{93421FC7-3DA6-4F3A-AAE4-E5275A9DF942} = {528F1D53-CBB1-453B-90AB-8038B2D290C7}
+		{ACF8568A-A8B3-4492-958D-2E6AB79BE6B7} = {528F1D53-CBB1-453B-90AB-8038B2D290C7}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7DA0AA13-F566-464D-8941-F9FFBBE205F1}
