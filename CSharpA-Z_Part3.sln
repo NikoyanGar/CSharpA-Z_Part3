@@ -191,6 +191,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003_Files_Directory", "Less
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_Files_Path", "Lesson_Files\001_Files_Path\001_Files_Path.csproj", "{ACF8568A-A8B3-4492-958D-2E6AB79BE6B7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_7_Threads", "Lesson_Threads\001_7_Threads\001_7_Threads.csproj", "{FCFDA613-4C3B-43BC-A594-FDC7FDFD0DA2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -533,6 +535,10 @@ Global
 		{ACF8568A-A8B3-4492-958D-2E6AB79BE6B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ACF8568A-A8B3-4492-958D-2E6AB79BE6B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ACF8568A-A8B3-4492-958D-2E6AB79BE6B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCFDA613-4C3B-43BC-A594-FDC7FDFD0DA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCFDA613-4C3B-43BC-A594-FDC7FDFD0DA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCFDA613-4C3B-43BC-A594-FDC7FDFD0DA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCFDA613-4C3B-43BC-A594-FDC7FDFD0DA2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -623,6 +629,7 @@ Global
 		{9AEF00F4-7796-486E-960F-95DC1EE3D54F} = {528F1D53-CBB1-453B-90AB-8038B2D290C7}
 		{93421FC7-3DA6-4F3A-AAE4-E5275A9DF942} = {528F1D53-CBB1-453B-90AB-8038B2D290C7}
 		{ACF8568A-A8B3-4492-958D-2E6AB79BE6B7} = {528F1D53-CBB1-453B-90AB-8038B2D290C7}
+		{FCFDA613-4C3B-43BC-A594-FDC7FDFD0DA2} = {C957FAFB-595C-4213-8806-2E6647C5E080}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7DA0AA13-F566-464D-8941-F9FFBBE205F1}

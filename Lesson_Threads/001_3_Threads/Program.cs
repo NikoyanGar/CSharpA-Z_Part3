@@ -14,6 +14,10 @@
             // Using the ThreadPool
             ThreadPool.QueueUserWorkItem(DoWork, "ThreadPool 1");
             ThreadPool.QueueUserWorkItem(DoWork, "ThreadPool 2");
+            //ThreadPool.GetMinThreads(out int workerMin, out int ioMin);
+            //ThreadPool.GetMaxThreads(out int workerMax, out int ioMax);
+            //ThreadPool.SetMinThreads(4, 4);   // минимум рабочих потоков и потоков I/O
+            //ThreadPool.SetMaxThreads(20, 20); // максимум
 
             Console.WriteLine("Main thread is doing some other work...");
 
