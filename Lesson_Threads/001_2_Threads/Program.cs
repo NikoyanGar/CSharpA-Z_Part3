@@ -5,7 +5,6 @@
         static void Main(string[] args)
         {
             Console.WriteLine($"Number of Cores: {Environment.ProcessorCount}");
-            Console.WriteLine($"Current Managed Thread ID: {Thread.CurrentThread.ManagedThreadId}");
 
             Thread thread = new Thread(() => PrintPluses(20));
             Thread thread1 = new Thread(() => PrintMinuss(20));
